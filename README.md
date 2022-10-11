@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MickeiasGA
 - 🌱 I’m currently learning C#, Java, JavaScript, HTML, CSS and SQL
-- 📫 How to reach me ...
 - Studying at Technical High School of Campinas - UNICAMP
 <!---
 MickeiasGA/MickeiasGA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
