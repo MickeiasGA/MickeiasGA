@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MickeiasGA
+- 👋 Hi, I’m Mickeias Gomes Araujo
 - 🌱 I’m currently learning C#, Java, JavaScript, HTML, CSS and SQL
 - Studying at Technical High School of Campinas - UNICAMP
 <!---
